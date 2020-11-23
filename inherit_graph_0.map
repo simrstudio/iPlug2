@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_a_p_i_bitmap.html" title="A bitmap abstraction around the different drawing back end bitmap representations. " alt="" coords="5,56,93,83"/>
+<area shape="rect" id="node2" href="$class_i_graphics_canvas_1_1_bitmap.html" title="IGraphicsCanvas::Bitmap" alt="" coords="144,5,327,32"/>
+<area shape="rect" id="node3" href="$class_i_graphics_nano_v_g_1_1_bitmap.html" title="IGraphicsNanoVG::Bitmap" alt="" coords="141,56,329,83"/>
+<area shape="rect" id="node4" href="$class_i_graphics_skia_1_1_bitmap.html" title="IGraphicsSkia::Bitmap" alt="" coords="154,107,317,133"/>
+</map>
